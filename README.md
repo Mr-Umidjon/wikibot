@@ -1,1 +1,1 @@
-# MyProjects
+# Wikibot
